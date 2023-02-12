@@ -1,0 +1,21 @@
+{
+    "index": "/index.html",
+    "assetGroups": [
+      {
+        "name": "app",
+        "installMode": "prefetch",
+        "resources": {
+          "files": [
+            "/favicon.ico",
+            "/index.html",
+            "/main.js",
+            "/styles.css"
+          ],
+          "urls": [
+            "https://7dfefacf-3c55-44fc-91e0-8c18e4e05bf4.mock.pstmn.io"
+          ]
+        }
+      }
+    ]
+  }
+  
